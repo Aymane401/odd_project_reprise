@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "App_UI": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "NETCORE_ENVIRONMENT": "DEVELOPMENT"
+      }
+    }
+  }
+}
